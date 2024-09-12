@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+section {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.spisok{
+    width: ;
+    display: flex;
+    list-style: none;
+    justify-content: space-evenly;
+
+}
+
+footer {
+    height: 5vh;
+    width: auto;
+    background-color: rgb(255, 164, 225);
+    border-radius: 20px 20px 0 0;
+}
+
+form {
+    width: 70vw;
+    margin: auto;
+}
+
+.navbar {
+    background-color: rgb(255, 164, 225);
+}
+.btn{
+    border: 1px solid white;
+    color:white;
+}
+
+.btn:hover{
+
+}
+
+#carouselExample{
+    height: 50vh;
+    width: auto;
+}
+.carousel-inner{
+    width: 50%;
+    margin: auto;
+}
+#kar{
+    height: 600px;
+    width: 400px;
+}
+#container{
+    margin: auto;
+}
+
+.col{
+    padding: 0;
+}
